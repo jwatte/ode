@@ -1,2 +1,0 @@
-# ode
-Open Dynamics Engine

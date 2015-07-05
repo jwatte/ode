@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+autom4te.cache/
+libccd/autom4te.cache/
+libccd/src/config.h.in~
+ode/src/config.h.in~
+ou/autom4te.cache/
